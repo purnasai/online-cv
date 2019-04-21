@@ -102,35 +102,37 @@ projects:
         
 certificates:
     title: certificates
-    intro: 
+    intro: |
+      These are some of the certificates that shaped and helped me.
+      
     papers:
-      - title: "Python for Data science and Machine learning"
+      - title: Python for Data science and Machine learning
         authors: Udemy
-        conference: "Sep 2018 - Oct 2018" 
+        conference: Sep 2018 - Oct 2018
 
-      - title: "Machine Learning A-Z & Hands on python for Data Scinence"
+      - title: Machine Learning A-Z & Hands on python for Data Scinence
         authors: Udemy
-        conference: "Dec 2018 - Jan 2019"
+        conference: Dec 2018 - Jan 2019
 
-      - title: "Machine learning By AndrewNG"
+      - title: Machine learning By AndrewNG
         authors: Coursera
-        conference: "Jan 2019 - Feb 2019"
+        conference: Jan 2019 - Feb 2019
 
-      - title: "TitleNeural Networks and Deep Learning"
+      - title: Neural Networks and Deep Learning
         authors: Coursera
-        conference: "Feb 2019 - Mar 2019"
+        conference: Feb 2019 - Mar 2019
 
       - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
         authors: Coursera
-        conference: "Feb 2019 - Mar 2019"
+        conference: Feb 2019 - Mar 2019
 
-      - title: "Structuring Machine Learning Projects"
+      - title: Structuring Machine Learning Projects
         authors: Coursera
-        conference: "Feb 2019 - Mar 2019"
+        conference: "Feb 2019 - Mar 2019
 
-      - title: "Convolutional Neural Networks"
+      - title: Convolutional Neural Networks
         authors: Coursera
-        conference: "Feb 2019 - Mar 2019"
+        conference: Feb 2019 - Mar 2019
 
 
 skills:
