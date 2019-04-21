@@ -104,6 +104,7 @@ certificates:
     title: certificates
     intro: |
       These are some of the certificates that shaped and helped me.
+    
     papers:
       - title: Python for Data science and Machine learning
         authors: Udemy
