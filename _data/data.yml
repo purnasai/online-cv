@@ -102,8 +102,6 @@ projects:
         
 certificates:
     title: certificates
-    intro: |
-      
     papers:
       - title: "Python for Data science and Machine learning"
         authors: Udemy
