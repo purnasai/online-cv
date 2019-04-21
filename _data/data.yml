@@ -1,0 +1,160 @@
+#
+# Be aware that even a small syntax error here can lead to failures in output.
+#
+
+sidebar:
+    about: False # set to False or comment line if you want to remove the "how to use?" in the sidebar
+    education: True # set to False if you want education in main section instead of in sidebar
+    Hobbies: True
+    Strengths: True
+    # Profile information
+    name: Purnasai Gudikandula
+    tagline: Machine learning Enthusiast
+    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+
+    # Sidebar links
+    email: purnasaigudikandula@gmail.com
+    phone: 9014247977
+    website: purnasai.github.io/ #do not add http://
+    linkedin: purnasai-gudikandula/
+    github: purnasai
+    gitlab:
+    bitbucket:
+    twitter: '@gpurnasai'
+    stack-overflow: # Number/Username, e.g. 123456/alandoe
+    codewars:
+    goodreads: # Number-Username, e.g. 123456-alandoe
+
+    languages:
+      - idiom: English
+        level: Professional
+
+      - idiom: Telugu
+        level: Native
+
+    interests:
+      - item: Machine learning
+        link:
+
+      - item: Data Science
+        link:
+
+      - item: Deep learning
+        link:
+
+      - item: Research scientist
+        link:
+
+    Strengths:
+      - item: Team leader
+
+      - item: Hard works
+
+      - item: Quick learner
+
+      - 
+        
+    Hobbies:
+      - item: Reading books
+        link:
+
+      - item: Browsing
+        link:
+
+      - item: Gardening
+        link:
+
+
+career-profile:
+    title: Career Profile
+    summary: |
+      A Machine learning enthusiast wanting to utilize my Technical and interpersonal
+      skills in a dynamic organisation to help create new strategies leading to smart
+      and effective solutions.
+education:
+    - degree: Computer Science Engineering(B.TECH)
+      university: Usha Rama college of Engineering and technology
+      time: 2014 - 2018
+      details: |
+          - Always in Top 5 Students in the Class.
+          - Actively participated in Seminars and Presentation.
+          - Team leader to 3 other brilliant minds.
+   
+projects:
+    title: Projects
+    intro: >
+    assignments:
+      - title: Neural Network from scratch in Python
+        link: "#https://github.com/purnasai/practice/tree/master/NN_from_scratch_python"
+        tagline: "Jan-2019 - Build Neural Network from scratch using python that gives a brief idea how the model works"
+
+      - title: Image classifier of Dogs and Cats using CNN
+        link: "#https://github.com/purnasai/practice/tree/master/Image_classifier_Dogs_and%20_Cats"
+        tagline: "Feb-2019 - Built Image classifier of Dogs and Cats using Convolutional Neural Networks."
+      
+      - title: Hand written MNIST digit classification using Pytorch
+        link: "#https://github.com/purnasai/practice/tree/master/CNN_pytorch_mnist"
+        tagline: "Mar-2019 - Hand written MNIST digit classification using transfer learning with pytroch"
+     
+      - title: Artistic Neural Style transfer using pytorch
+        link: "#https://github.com/purnasai/practice/tree/master/Style_transfer"
+        tagline: "Mar-2019 - Built Artistic Neural style transfer using pytorch that can transfer style to target image"
+        
+certificates:
+    title: certificates
+    intro: |
+      
+    papers:
+      - title: "Python for Data science and Machine learning"
+        authors: Udemy
+        conference: "Sep 2018 - Oct 2018" 
+
+      - title: "Machine Learning A-Z & Hands on python for Data Scinence"
+        authors: Udemy
+        conference: "Dec 2018 - Jan 2019"
+
+      - title: "Machine learning By AndrewNG"
+        authors: Coursera
+        conference: "Jan 2019 - Feb 2019"
+
+      - title: "TitleNeural Networks and Deep Learning"
+        authors: Coursera
+        conference: "Feb 2019 - Mar 2019"
+
+      - title: "Improving Deep Neural Networks: Hyperparameter tuning, Regularization and Optimization"
+        authors: Coursera
+        conference: "Feb 2019 - Mar 2019"
+
+      - title: "Structuring Machine Learning Projects"
+        authors: Coursera
+        conference: "Feb 2019 - Mar 2019"
+
+      - title: "Convolutional Neural Networks"
+        authors: Coursera
+        conference: "Feb 2019 - Mar 2019"
+
+
+skills:
+    title: Skills &amp; Proficiency
+
+    toolset:
+      - name: Python
+        level: 75%
+
+      - name: Machine learning
+        level: 80%
+
+      - name: Deep learning
+        level: 70%
+
+      - name: Data science
+        level: 70%
+
+      - name: Statistics
+        level: 75%
+
+      - name: Git
+        level: 60%
+
+footer: >
+    Designed with <i class="fas fa-heart"></i> by <a href="http://themes.3rdwavemedia.com" target="_blank" rel="nofollow">Xiaoying Riley</a>
