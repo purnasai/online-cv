@@ -105,7 +105,6 @@ certificates:
     title: certificates
     intro: |
       These are some of the certificates that shaped and helped me.
-    
     papers:
       - title: Python for Data science and Machine learning
         authors: Udemy
@@ -129,7 +128,7 @@ certificates:
 
       - title: Structuring Machine Learning Projects
         authors: Coursera
-        conference: "Feb 2019 - Mar 2019
+        conference: Feb 2019 - Mar 2019
 
       - title: Convolutional Neural Networks
         authors: Coursera
