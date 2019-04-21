@@ -1,0 +1,22 @@
+{% assign strengths = site.data.data.sidebar.strengths %}
+{% if strengths %}
+<div class="strengths-container container-block">
+
+  <h2 class="container-block-title">
+    strengths
+  </h2>
+
+  <ul class="list-unstyled strengths-list">
+    {% for strength in strengths %}
+
+      {% if strength.link %}
+      <li><a href="{{ strength.link }}">{{ strength.item }}</a></li>
+      {% else %}
+      <li>{{ strength.item }}</li>
+      {% endif %}
+
+    {% endfor %}
+  </ul>
+
+</div><!--//interests-->
+{% endif %}

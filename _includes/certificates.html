@@ -16,11 +16,11 @@
   </div><!--//intro-->
   {% endif %}
 
-  {% for certificates in certificates.papers %}
+  {% for certificate in certificates.papers %}
   <div class="item">
-    <div class="certificates-title">{{ certificates.title }}</div>
-    <div class="certificates-authors">{{ certificates.authors }}</div>
-    <div class="certificates-conference">{{ certificates.conference }}</div>
+    <div class="certificate-title">{{ certificate.title }}</div>
+    <div class="certificate-authors">{{ certificate.authors }}</div>
+    <div class="certificate-conference">{{ certificate.conference }}</div>
   </div><!--//item-->
   {% endfor %}
 
